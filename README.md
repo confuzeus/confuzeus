@@ -89,3 +89,11 @@ to contribute to in my spare time.
 
 So far, I commited bug fixes and the *remember me* functionality
 in the login form.
+
+## Contact
+
+Email me at the following address:
+
+michael [] mywebsite(confuzeus) dot com
+
+You can find more contact details on [my website](https://confuzeus.com)
