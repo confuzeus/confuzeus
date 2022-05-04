@@ -1,8 +1,8 @@
-## whoami 
+## whoami 🧔
 
 I'm Josh Michael Karamuth from [Mauritius](https://en.wikipedia.org/wiki/Mauritius).
 
-## What you'll find
+## What you'll find 🎥📋
 
 I have many open source repos for you to dig into.
 
@@ -12,7 +12,7 @@ For Javascript I mostly use plain JS or sometimes jQuery.
 
 CSS is written in SCSS and my UI framework of choice is Bootstrap.
 
-### In Progress
+### In Progress 📋
 
 [django-getin](https://github.com/confuzeus/django-getin)
 
@@ -21,7 +21,7 @@ web apps.
 
 It's mostly done but I haven't completed the documentation yet.
 
-### Released
+### Released ✅
 
 [django-allcaptcha](https://github.com/confuzeus/django-allcaptcha)
 
@@ -68,7 +68,7 @@ party packages.
 This is my personal template for spinning a Flask based
 API in seconds.
 
-## Abandoned
+## Abandoned 🤕
 
 [sasaas](https://github.com/confuzeus/sasaas)
 
@@ -80,7 +80,7 @@ If your project is so simple that a boilerplate makes
 total sense, then you should look at the popular No-code
 tools like Bubble instead of investing on a custom coded app.
 
-## Open source contributions
+## Open source contributions 🧑‍💻🤕
 
 [wagtail](https://github.com/wagtail/wagtail)
 
