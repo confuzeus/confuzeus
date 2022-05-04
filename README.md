@@ -2,7 +2,7 @@
 
 I'm Josh Michael Karamuth from [Mauritius](https://en.wikipedia.org/wiki/Mauritius).
 
-## What you'll find 🎥📋
+## What you'll find 🎥
 
 I have many open source repos for you to dig into.
 
@@ -80,7 +80,7 @@ If your project is so simple that a boilerplate makes
 total sense, then you should look at the popular No-code
 tools like Bubble instead of investing on a custom coded app.
 
-## Open source contributions 🧑‍💻🤕
+## Open source contributions 🧑‍💻
 
 [wagtail](https://github.com/wagtail/wagtail)
 
