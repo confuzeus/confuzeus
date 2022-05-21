@@ -68,6 +68,12 @@ party packages.
 This is my personal template for spinning a Flask based
 API in seconds.
 
+---
+
+[simple-hugo](https://github.com/confuzeus/simple-hugo)
+
+Ship high quality Hugo based websites quickly with starter kit.
+
 ## Abandoned 🤕
 
 [sasaas](https://github.com/confuzeus/sasaas)
