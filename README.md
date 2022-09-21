@@ -21,6 +21,15 @@ web apps.
 
 It's mostly done but I haven't completed the documentation yet.
 
+---
+
+[mailiness](https://github.com/confuzeus/mailiness)
+
+A Python CLI app I built for managing my self hosted email server.
+
+It supports CRUD against the virtual mail database and generation of
+DKIM keys.
+
 ### Released ✅
 
 [django-allcaptcha](https://github.com/confuzeus/django-allcaptcha)
