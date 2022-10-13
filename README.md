@@ -8,7 +8,7 @@ I have many open source repos for you to dig into.
 
 My main tech stack is Python with Django.
 
-For Javascript I mostly use plain JS or sometimes jQuery.
+For Javascript I mostly use plain JS or sometimes jQuery. I like React as well, if you have one and are looking for contributors, email me ASAP.
 
 CSS is written in SCSS and my UI framework of choice is Bootstrap.
 
