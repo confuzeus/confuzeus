@@ -42,6 +42,14 @@ plug HCaptcha or ReCaptcha in your Django forms.
 
 ---
 
+[django-perfect-breadcrumbs](https://confuzeus/django-perfect-breadcrumbs)
+
+Breadcrumbs for perfectionists with deadlines.
+
+The easiest way to add breadcrumbs to your Django project.
+
+---
+
 [ansible-plausible](https://github.com/confuzeus/ansible-plausible)
 
 I use [Plausible Analytics](https://plausible.io) for all my analytics
