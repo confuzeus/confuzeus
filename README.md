@@ -2,15 +2,11 @@
 
 I'm Josh Michael Karamuth from [Mauritius](https://en.wikipedia.org/wiki/Mauritius).
 
-## What you'll find 🎥
+I build software using Python, Django, React, and Postgresql.
 
-I have many open source repos for you to dig into.
+I'm a full-stack developer, so I also do devops using Linux and Ansible.
 
-My main tech stack is Python with Django.
-
-For Javascript I mostly use plain JS or sometimes jQuery. I like React as well, if you have one and are looking for contributors, email me ASAP.
-
-CSS is written in SCSS and my UI framework of choice is Bootstrap.
+Contact me if you want to hire me to work on your project.
 
 ### In Progress 📋
 
@@ -117,6 +113,6 @@ in the login form.
 
 Email me at the following address:
 
-michael [] mywebsite(confuzeus) dot com
+[hello@joshkaramuth.com](mailto:hello@joshkaramuth.com)
 
-You can find more contact details on [my website](https://confuzeus.com)
+You can find more contact details on [my website](https://joshkaramuth.com)
