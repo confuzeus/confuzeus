@@ -42,7 +42,7 @@ plug HCaptcha or ReCaptcha in your Django forms.
 
 ---
 
-[django-perfect-breadcrumbs](https://confuzeus/django-perfect-breadcrumbs)
+[django-perfect-breadcrumbs](https://github.com/confuzeus/django-perfect-breadcrumbs)
 
 Breadcrumbs for perfectionists with deadlines.
 
