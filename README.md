@@ -1,6 +1,6 @@
 ## whoami 🧔
 
-I'm Josh Michael Karamuth from [Mauritius](https://en.wikipedia.org/wiki/Mauritius).
+I'm Josh from [Mauritius](https://en.wikipedia.org/wiki/Mauritius).
 
 I build software using Python, Django, React, and Postgresql.
 
